@@ -1,6 +1,6 @@
 # Rockstarbryant (Brian Ouma)
 
-**Computer Science Undergraduate** | Mombasa, Kenya 🇰🇪
+**Computer Science graduate** | Mombasa, Kenya 🇰🇪
 
 ➤ Building practical **web**, **crypto**, and **blockchain** tools with passion
 
@@ -12,12 +12,10 @@
 
 ➤ **Tech Stack**: JavaScript / Next.js, Solidity, Node.js, Web3
 
-➤ Explore more: [Vercel Profile](https://vercel.com/rocktarbryants-projects) | [All Repos](https://github.com/Rockstarbryant?tab=repositories)
+➤ **Find me everywhere as @Rockstarbryant**:
+- GitHub: [github.com/Rockstarbryant](https://github.com/Rockstarbryant)
+- Twitter/X: [twitter.com/rockstarbryant](https://twitter.com/rockstarbryant)
+- Telegram: [t.me/Rockstarbryant](http://t.me/Rockstarbryant)
+- Vercel: [vercel.com/rocktarbryants-projects](https://vercel.com/rocktarbryants-projects)
 
-➤ Connect with me:
-- GitHub: [@Rockstarbryant](https://github.com/Rockstarbryant)
-- Add your LinkedIn / X / Email here
-
----
-
-*Made with ❤️ for impactful tech in Kenya*
+➤ Connect & let's collaborate!
